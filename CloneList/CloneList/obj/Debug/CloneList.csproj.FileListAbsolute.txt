@@ -1,0 +1,6 @@
+c:\users\jesse\documents\visual studio 2013\Projects\CloneList\CloneList\bin\Debug\CloneList.exe.config
+c:\users\jesse\documents\visual studio 2013\Projects\CloneList\CloneList\bin\Debug\CloneList.exe
+c:\users\jesse\documents\visual studio 2013\Projects\CloneList\CloneList\bin\Debug\CloneList.pdb
+c:\users\jesse\documents\visual studio 2013\Projects\CloneList\CloneList\obj\Debug\CloneList.csprojResolveAssemblyReference.cache
+c:\users\jesse\documents\visual studio 2013\Projects\CloneList\CloneList\obj\Debug\CloneList.exe
+c:\users\jesse\documents\visual studio 2013\Projects\CloneList\CloneList\obj\Debug\CloneList.pdb

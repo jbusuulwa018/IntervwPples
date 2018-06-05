@@ -1,0 +1,5 @@
+c:\users\jesse\documents\visual studio 2013\Projects\FindSmallestDifference\FindSmallestDifference\bin\Debug\FindSmallestDifference.exe.config
+c:\users\jesse\documents\visual studio 2013\Projects\FindSmallestDifference\FindSmallestDifference\bin\Debug\FindSmallestDifference.exe
+c:\users\jesse\documents\visual studio 2013\Projects\FindSmallestDifference\FindSmallestDifference\bin\Debug\FindSmallestDifference.pdb
+c:\users\jesse\documents\visual studio 2013\Projects\FindSmallestDifference\FindSmallestDifference\obj\Debug\FindSmallestDifference.exe
+c:\users\jesse\documents\visual studio 2013\Projects\FindSmallestDifference\FindSmallestDifference\obj\Debug\FindSmallestDifference.pdb

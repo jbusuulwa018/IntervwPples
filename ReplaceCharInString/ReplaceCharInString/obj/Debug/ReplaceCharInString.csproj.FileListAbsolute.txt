@@ -1,0 +1,5 @@
+c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.exe.config
+c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.exe
+c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.pdb
+c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\obj\Debug\ReplaceCharInString.exe
+c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\obj\Debug\ReplaceCharInString.pdb
