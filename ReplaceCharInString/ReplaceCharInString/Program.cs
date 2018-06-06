@@ -37,19 +37,37 @@ namespace ReplaceCharInString
             return sb.ToString();
         
         }
+
+        public static string replaceChar(string s, char oldChar, char newChar)
+        {
+            // This will reconstruct the string.
+            StringBuilder sb = new StringBuilder();
+            foreach (char c in s)
+            {
+                //Compare the characters
+                if (c == oldChar)
+                {
+                    //if it is the targeted char replace it.
+                    sb.Append(newChar);
+                }
+                else
+                {
+                    // reconstruct the string with string builder
+                    sb.Append(c);
+                }
+            
+            }
+            return sb.ToString();
+        }
         static void Main(string[] args)
         {
-
-
-            int f = 0;
-            int start, end;
            
             Console.WriteLine("Enter a string");
             string s = Console.ReadLine();
-            Console.WriteLine("Enter the word to be replaced: ");
-            string a = Console.ReadLine();
-            Console.WriteLine("Enter a new word to replace: ");
-            string b = Console.ReadLine();
+            Console.WriteLine("Enter the char to be replaced: ");
+            string tobeReplaced = Console.ReadLine();
+            Console.WriteLine("Enter a new char to replace: ");
+            string newReplacement = Console.ReadLine();
             
             //Create array to split the string into individual words for ease search
             string [] myarr = new string [50];
@@ -57,7 +75,8 @@ namespace ReplaceCharInString
             //The splitter will be the empty space between the words in the string
             myarr = s.Split(' ');
             
-           Console.WriteLine(replaceWord(myarr,a,b).Trim());
+           //Console.WriteLine(replaceWord(myarr,a,b).Trim());
+            Console.WriteLine(replaceChar(s, Convert.ToChar(tobeReplaced), Convert.ToChar(newReplacement)));
            Console.ReadLine();
       }
     }

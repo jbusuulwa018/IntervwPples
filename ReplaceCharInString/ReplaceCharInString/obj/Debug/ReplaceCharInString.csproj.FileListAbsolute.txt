@@ -1,5 +1,5 @@
-c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.exe.config
-c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.exe
-c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.pdb
-c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\obj\Debug\ReplaceCharInString.exe
-c:\users\jesse\documents\visual studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\obj\Debug\ReplaceCharInString.pdb
+C:\Users\Jesse\Documents\Visual Studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.exe.config
+C:\Users\Jesse\Documents\Visual Studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.exe
+C:\Users\Jesse\Documents\Visual Studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\bin\Debug\ReplaceCharInString.pdb
+C:\Users\Jesse\Documents\Visual Studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\obj\Debug\ReplaceCharInString.exe
+C:\Users\Jesse\Documents\Visual Studio 2013\Projects\ReplaceCharInString\ReplaceCharInString\obj\Debug\ReplaceCharInString.pdb
