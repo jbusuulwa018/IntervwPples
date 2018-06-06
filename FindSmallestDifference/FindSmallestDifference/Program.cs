@@ -9,12 +9,12 @@ namespace FindSmallestDifference
     class Program
     {
 
-        public static int GetSmallestElement(int[] arrOne, int[] arrTwo)
+        public static string GetSmallestElement(int[] arrOne, int[] arrTwo)
         {
             //Declare an array of the same length as one of the two arrays
             int[] arr = new int[arrOne.Length];
             int smallest = arr[0];  // declare the small
-
+            string c = "";
             // using the the second array elements subtracting from the first array elements
             for (int j = 0; j < arrOne.Length; j++)
             {
@@ -30,11 +30,15 @@ namespace FindSmallestDifference
                 {
                     //Compare if smallest is grater than any element in the array.
                     smallest = arr[k];
+
+                    // get the value from the first array and value from the second array 
+                    // change all into a string and build a string for output in c variable.
+                    c = arrOne[k].ToString() + " - " + arrTwo[k].ToString() + " = " + smallest.ToString();  
                 }
 
             }
 
-            return smallest;
+            return c;
         }
         static void Main(string[] args)
         {
@@ -63,7 +67,7 @@ namespace FindSmallestDifference
        
 
             // Display the smallest element in the array
-            Console.WriteLine("smallest is " + GetSmallestElement(arr1, arr2).ToString());
+            Console.WriteLine("smallest difference is from " + GetSmallestElement(arr1, arr2));
             Console.ReadLine();
           
 
