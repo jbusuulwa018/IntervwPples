@@ -38,14 +38,14 @@ namespace ReplaceCharInString
         
         }
 
-        public static string replaceChar(string s, char oldChar, char newChar)
+        public static string replaceChar(string s, string oldChar, string newChar)
         {
             // This will reconstruct the string.
             StringBuilder sb = new StringBuilder();
             foreach (char c in s)
             {
                 //Compare the characters
-                if (c == oldChar)
+                if (c.ToString() == oldChar)
                 {
                     //if it is the targeted char replace it.
                     sb.Append(newChar);
@@ -76,7 +76,7 @@ namespace ReplaceCharInString
             myarr = s.Split(' ');
             
            //Console.WriteLine(replaceWord(myarr,a,b).Trim());
-            Console.WriteLine(replaceChar(s, Convert.ToChar(tobeReplaced), Convert.ToChar(newReplacement)));
+            Console.WriteLine(replaceChar(s, tobeReplaced, newReplacement));
            Console.ReadLine();
       }
     }
